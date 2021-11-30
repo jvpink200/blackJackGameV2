@@ -13,8 +13,7 @@ startgame.addEventListener("click", function() {
 newCard.addEventListener("click", function() {
     let addCard = 12;
     sum.innerHTML = total + addCard;
-    let pushCard = card.push(addCard);
-    cards.innerHTML
+    cards.innerHTML += " " + card[2];
     console.log(card[2] + total);
 });
 
