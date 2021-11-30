@@ -1,0 +1,28 @@
+body {
+    background-color: green;
+    text-align: center;
+    font-size:20px;
+}
+.black-jack-header{
+    color: orange;
+    font-size: 28px;
+}
+.btn{
+    background-color: orange;
+    border: none;
+    color:green;
+    font-weight:bold;
+}
+
+#my-cards{
+    color: white;
+}
+
+#start-game {
+    padding:10px 5px;
+}
+
+#new-card{
+    margin-top:15px;
+    padding:10px;
+}
